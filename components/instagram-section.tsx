@@ -11,7 +11,7 @@ export function InstagramSection() {
   return (
     <section id="instagram" className="bg-black py-32 overflow-hidden">
       <div className="max-w-7xl mx-auto px-6 mb-16">
-        <h2 className="text-6xl md:text-8xl lg:text-9xl font-light tracking-[0.2em] text-white mb-8">INSTAGRAM</h2>
+        <h2 className="text-5xl sm:text-6xl md:text-8xl lg:text-9xl font-light tracking-[0.2em] text-white mb-8">INSTAGRAM</h2>
         <p className="text-xs tracking-[0.3em] text-white/50">@MATIASRICARDES</p>
       </div>
 
