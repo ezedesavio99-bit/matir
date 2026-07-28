@@ -2,8 +2,7 @@ export function ContactSection() {
   return (
     <section id="contact" className="min-h-screen bg-black py-32">
       <div className="max-w-7xl mx-auto px-6">
-        <h2 className="text-6xl md:text-8xl lg:text-9xl font-light tracking-[0.2em] text-white mb-8">CONTACT</h2>
-        <p className="text-xs tracking-[0.3em] text-white/50 mb-24">BOOKINGS & INQUIRIES</p>
+        <h2 className="text-6xl md:text-8xl lg:text-9xl font-light tracking-[0.2em] text-white mb-24">CONTACT</h2>
 
         <div className="max-w-2xl">
           {/* Contact Info */}
