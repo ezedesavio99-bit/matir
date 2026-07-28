@@ -31,7 +31,7 @@ export function HeroSection() {
           MATIAS RICARDES
         </h1>
         <p className="text-sm md:text-base tracking-[0.4em] text-white/70 mb-2">DJ / PRODUCER</p>
-        <p className="text-xs tracking-[0.3em] text-white/50 mb-12">Minimal · Deep · Tech</p>
+
         <a
           href="https://open.spotify.com/intl-es/artist/3d5cuyH4VoweDlD7AQx9eV?si=jCpqFBFVRf-KWnDyv6hLAg&nd=1&dlsi=d7416dfb6006440b"
           target="_blank"
