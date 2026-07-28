@@ -11,7 +11,7 @@ import YouTubeIcon from "./icons/YouTubeIcon"
 const navItems = [
   { name: "HOME", href: "#home" },
   { name: "MUSIC", href: "#music" },
-  { name: "LABELS", href: "#labels" },
+  { name: "SETS", href: "#sets" },
   { name: "BIO", href: "#bio" },
   { name: "CONTACT", href: "#contact" },
 ]

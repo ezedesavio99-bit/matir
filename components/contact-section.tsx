@@ -53,13 +53,6 @@ export function ContactSection() {
               SEND PROMO
             </a>
 
-            <a
-              href="/presskit.pdf"
-              download
-              className="inline-block border border-white/30 px-8 py-3 text-xs tracking-[0.3em] text-white hover:bg-white hover:text-black transition-all duration-500 ml-4"
-            >
-              PRESSKIT
-            </a>
           </div>
 
           {/* Contact Form */}
@@ -100,12 +93,6 @@ export function ContactSection() {
                 className="w-full bg-transparent border-b border-white/20 py-3 text-white focus:border-white focus:outline-none transition-colors duration-500 resize-none"
               />
             </div>
-            <button
-              type="submit"
-              className="border border-white/30 px-8 py-3 text-xs tracking-[0.3em] text-white hover:bg-white hover:text-black transition-all duration-500"
-            >
-              SEND PROMO
-            </button>
           </form>
         </div>
       </div>
