@@ -15,14 +15,16 @@ export function BioSection() {
             <h2 className="text-6xl md:text-7xl lg:text-8xl font-light tracking-[0.2em] text-white mb-8">BIO</h2>
             <div className="space-y-6">
               <p className="text-sm leading-relaxed text-white/60 tracking-wide">
-                Matías Ricardes es un productor y DJ nacido el 20 de junio del 2000 en Buenos Aires, Argentina. Criado
-                en Costa Rica, desarrolló una identidad artística marcada por diversas influencias culturales.
+                Matías Ricardes es un productor y DJ nacido el 20 de junio del 2000 en Buenos Aires, Argentina. Criado en Costa Rica, desarrolló una identidad artística marcada por diversas influencias culturales.
               </p>
               <p className="text-sm leading-relaxed text-white/60 tracking-wide">
-                Apasionado por la música desde temprana edad, en 2023 emergió en la escena tech house y minimal deep tech de Buenos Aires. Su sonido se caracteriza por grooves hipnóticos, bajos potentes y vocales profundas.
+                Apasionado por la música desde temprana edad, en 2024 emergió en la escena tech house y minimal deep tech de Buenos Aires. Su sonido se caracteriza por grooves hipnóticos, bajos potentes y vocales profundas.
               </p>
               <p className="text-sm leading-relaxed text-white/60 tracking-wide">
-                Logró firmar música en sellos como Under No Illusion, Happy Techno, ANDDANCE, Manicomio, Samba entre otros, y se ha presentado en clubes destacados de la ciudad, consolidando una identidad sonora propia.
+                Logró firmar música en sellos como Under No Illusion, Happy Techno, ANDDANCE, Manicomio, entre otros.
+              </p>
+              <p className="text-sm leading-relaxed text-white/60 tracking-wide">
+                Se ha presentado en clubes destacados de la ciudad, consolidando una identidad sonora propia.
               </p>
 
               {/* English Version */}
@@ -31,10 +33,13 @@ export function BioSection() {
                   Matías Ricardes is a producer and DJ born on June 20, 2000, in Buenos Aires, Argentina. Raised in Costa Rica, he developed an artistic identity marked by diverse cultural influences.
                 </p>
                 <p className="text-sm leading-relaxed text-white/60 tracking-wide italic">
-                  Passionate about music from an early age, in 2023 he emerged in the tech house and minimal deep tech scene in Buenos Aires. His sound is characterized by hypnotic grooves, powerful basslines, and deep vocals.
+                  Passionate about music from an early age, in 2024 he emerged in the tech house and minimal deep tech scene in Buenos Aires. His sound is characterized by hypnotic grooves, powerful basslines, and deep vocals.
                 </p>
                 <p className="text-sm leading-relaxed text-white/60 tracking-wide italic">
-                  He has signed music on labels such as Under No Illusion, Happy Techno, ANDDANCE, Manicomio, and Samba among others, and has performed at prominent clubs in the city, consolidating his own sonic identity.
+                  He managed to sign music on labels such as Under No Illusion, Happy Techno, ANDDANCE, and Manicomio, among others.
+                </p>
+                <p className="text-sm leading-relaxed text-white/60 tracking-wide italic">
+                  He has performed at prominent clubs in the city, consolidating his own sonic identity.
                 </p>
               </div>
             </div>
