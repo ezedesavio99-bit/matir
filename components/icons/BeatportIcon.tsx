@@ -4,20 +4,14 @@ import Image from "next/image"
 
 export default function BeatportIcon({ className }: { className?: string }) {
   return (
-    <div className={`relative ${className} group`}>
+    <div className={`relative ${className} flex items-center justify-center opacity-50 hover:opacity-100 transition-opacity duration-500`}>
       <Image
         src="/images/images-20-20editado-20-281-29.png"
         alt="Beatport"
         width={20}
         height={20}
-        className="brightness-[3] group-hover:brightness-100 transition-all duration-300"
-        style={{ filter: "invert(1) brightness(0.5)" }}
+        style={{ filter: "brightness(0) invert(1)" }}
       />
-      <style jsx>{`
-        div:hover img {
-          filter: invert(0) brightness(1) !important;
-        }
-      `}</style>
     </div>
   )
 }
