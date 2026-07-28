@@ -30,7 +30,7 @@ export function HeroSection() {
         <h1 className="text-5xl md:text-7xl lg:text-8xl font-light tracking-[0.3em] text-white mb-4">
           MATIAS RICARDES
         </h1>
-        <p className="text-sm md:text-base tracking-[0.4em] text-white/70 mb-2">DJ / PRODUCER</p>
+        <p className="text-sm md:text-base tracking-[0.4em] text-white/70 mb-6">DJ / PRODUCER</p>
 
         <a
           href="https://open.spotify.com/intl-es/artist/3d5cuyH4VoweDlD7AQx9eV?si=jCpqFBFVRf-KWnDyv6hLAg&nd=1&dlsi=d7416dfb6006440b"
