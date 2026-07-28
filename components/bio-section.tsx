@@ -22,23 +22,20 @@ export function BioSection() {
                 Apasionado por la música desde temprana edad, en 2023 emergió en la escena tech house y minimal deep tech de Buenos Aires. Su sonido se caracteriza por grooves hipnóticos, bajos potentes y vocales profundas.
               </p>
               <p className="text-sm leading-relaxed text-white/60 tracking-wide">
-                Logro firmar música en sellos como Under No Illusion, Happy Techno, ANDDANCE, Manicomio, Samba entre otros, y se ha presentado en clubes destacados de la ciudad, consolidando una identidad sonora propia.
+                Logró firmar música en sellos como Under No Illusion, Happy Techno, ANDDANCE, Manicomio, Samba entre otros, y se ha presentado en clubes destacados de la ciudad, consolidando una identidad sonora propia.
               </p>
-            </div>
 
-            {/* Stats */}
-            <div className="grid grid-cols-3 gap-8 mt-16 pt-8 border-t border-white/10">
-              <div>
-                <p className="text-3xl font-light text-white">15+</p>
-                <p className="text-xs tracking-[0.2em] text-white/40 mt-2">LABELS</p>
-              </div>
-              <div>
-                <p className="text-3xl font-light text-white">20+</p>
-                <p className="text-xs tracking-[0.2em] text-white/40 mt-2">EPs</p>
-              </div>
-              <div>
-                <p className="text-3xl font-light text-white">BA</p>
-                <p className="text-xs tracking-[0.2em] text-white/40 mt-2">BASED</p>
+              {/* English Version */}
+              <div className="pt-6 mt-6 border-t border-white/10 space-y-6">
+                <p className="text-sm leading-relaxed text-white/60 tracking-wide italic">
+                  Matías Ricardes is a producer and DJ born on June 20, 2000, in Buenos Aires, Argentina. Raised in Costa Rica, he developed an artistic identity marked by diverse cultural influences.
+                </p>
+                <p className="text-sm leading-relaxed text-white/60 tracking-wide italic">
+                  Passionate about music from an early age, in 2023 he emerged in the tech house and minimal deep tech scene in Buenos Aires. His sound is characterized by hypnotic grooves, powerful basslines, and deep vocals.
+                </p>
+                <p className="text-sm leading-relaxed text-white/60 tracking-wide italic">
+                  He has signed music on labels such as Under No Illusion, Happy Techno, ANDDANCE, Manicomio, and Samba among others, and has performed at prominent clubs in the city, consolidating his own sonic identity.
+                </p>
               </div>
             </div>
           </div>
