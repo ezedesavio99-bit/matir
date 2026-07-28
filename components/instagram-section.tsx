@@ -16,11 +16,7 @@ const instagramPosts = [
     image: "/images/mati-92.jpg",
     link: "https://www.instagram.com/p/DLTGOa6PMpx/",
   },
-  {
-    id: 4,
-    image: "/images/img-9742.jpg",
-    link: "https://www.instagram.com/p/DAj3R9MSLX7/",
-  },
+
   {
     id: 5,
     image: "/images/img-9746.jpg",
