@@ -10,7 +10,7 @@ export default function BeatportIcon({ className }: { className?: string }) {
         alt="Beatport"
         width={20}
         height={20}
-        style={{ filter: "brightness(0) invert(1)" }}
+        className="invert brightness-0"
       />
     </div>
   )
